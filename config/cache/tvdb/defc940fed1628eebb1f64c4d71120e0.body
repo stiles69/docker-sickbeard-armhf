@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+  <Series>
+    <id>75897</id>
+    <Actors>|Trey Parker|Matt Stone|Randy Marsh|Butters Stotch|Stan Marsh|Kyle Broflovski|Eric Cartman|Eliza Schneider|Mona Marshall|Eric Stough|April Stewart|Adrien Beard|Isaac Hayes|Mary Kay Bergman|Jennifer Howell|</Actors>
+    <Airs_DayOfWeek>Wednesday</Airs_DayOfWeek>
+    <Airs_Time>10:00 PM</Airs_Time>
+    <ContentRating>TV-MA</ContentRating>
+    <FirstAired>1997-08-01</FirstAired>
+    <Genre>|Animation|Comedy|</Genre>
+    <IMDB_ID>tt0121955</IMDB_ID>
+    <Language>en</Language>
+    <Network>Comedy Central (US)</Network>
+    <NetworkID></NetworkID>
+    <Overview>South Park is an animated series featuring four boys who live in the Colorado town of South Park, which is beset by frequent odd occurrences. The show grew out of a short film that Trey Parker and Matt Stone created called The Spirit of Christmas, and has become an award-winning show that is a unique blend of humor and satire.</Overview>
+    <Rating>8.7</Rating>
+    <RatingCount>554</RatingCount>
+    <Runtime>25</Runtime>
+    <SeriesID>344</SeriesID>
+    <SeriesName>South Park</SeriesName>
+    <Status>Continuing</Status>
+    <added></added>
+    <addedBy></addedBy>
+    <banner>graphical/75897-g7.jpg</banner>
+    <fanart>fanart/original/75897-43.jpg</fanart>
+    <finale_aired>2018-12-12</finale_aired>
+    <lastupdated>1538631968</lastupdated>
+    <poster>posters/75897-5.jpg</poster>
+    <slug>south-park</slug>
+    <tms_wanted_old>1</tms_wanted_old>
+    <zap2it_id>EP00229827</zap2it_id>
+  </Series>
+</Data>
